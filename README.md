@@ -1,10 +1,10 @@
 # Age-Calculator
-lmao
+Lmao
 
 ## How to start?
 
 yes tutorial ☠
 
-- install python 
+- install [python](https://www.python.org/downloads/) 
 
 - click on start.bat
